@@ -1,2 +1,2 @@
 # JavaScript30
-JavaScript 30 Challenge by Wes Bos
+[JavaScript30](https://javascript30.com/) Challenge by Wes Bos.
