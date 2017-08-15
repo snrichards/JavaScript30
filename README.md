@@ -3,5 +3,5 @@
 
 ##Challenges
 
-**Day 1:** JavaScript Drum Kit (completed)
+**Day 1:** JavaScript Drum Kit (completed)  
 **Day 2:** JavaScript and CSS Clock (compelted)
