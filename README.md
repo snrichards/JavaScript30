@@ -4,4 +4,5 @@
 ## Challenges
 
 **Day 1:** JavaScript Drum Kit (completed)  
-**Day 2:** JavaScript and CSS Clock (compelted)
+**Day 2:** JavaScript and CSS Clock (compelted)  
+**Day 3:** CSS Variables (completed)
