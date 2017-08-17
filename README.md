@@ -4,7 +4,7 @@
 ## Challenges
 |Day  |Challenge                                    |Completed|  
 |:---:|:-------------------------------------------:|:-------:|  
-|1    |JavaScript Drum Kit                          |[x]      |  
+|1    |JavaScript Drum Kit                          |[x] # [checkbox:checked]     |  
 |2    |JS and CSS Clock                             |[x]      |  
 |3    |CSS Variables                                |[x]      |  
 |4    |Array Cardio Day 1                           |[x]      |  
