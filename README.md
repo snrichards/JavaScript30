@@ -9,7 +9,7 @@
 |3    |CSS Variables                                |:ballot_box_with_check:    |  
 |4    |Array Cardio Day 1                           |:ballot_box_with_check:    |  
 |5    |Flex Panel Gallery                           |:ballot_box_with_check:    |  
-|6    |Type Ahead                                   |    |  
+|6    |Type Ahead                                   |:ballot_box_with_check:    |  
 |7    |Array Cardio Day 2                           |    |  
 |8    |Fun with HTML5 Canvas                        |    |  
 |9    |Dev Tools Domination                         |    |  
