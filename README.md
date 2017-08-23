@@ -13,7 +13,7 @@
 |7    |Array Cardio Day 2                           |:ballot_box_with_check:    |  
 |8    |Fun with HTML5 Canvas                        |:ballot_box_with_check:    |  
 |9    |Dev Tools Domination                         |:ballot_box_with_check:    |  
-|10   |Hold Shift and Check Checkboxes              |    |  
+|10   |Hold Shift and Check Checkboxes              |:ballot_box_with_check:    |  
 |11   |Custom Video Player                          |    |  
 |12   |Key Sequence Detection                       |    |  
 |13   |Slide in on Scroll                           |    |  
