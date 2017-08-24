@@ -15,7 +15,7 @@
 |9    |Dev Tools Domination                         |:ballot_box_with_check:    |  
 |10   |Hold Shift and Check Checkboxes              |:ballot_box_with_check:    |  
 |11   |Custom Video Player                          |:ballot_box_with_check:    |  
-|12   |Key Sequence Detection                       |    |  
+|12   |Key Sequence Detection                       |:ballot_box_with_check:    |  
 |13   |Slide in on Scroll                           |    |  
 |14   |JavaScript References VS Copying             |    |  
 |15   |LocalStorage                                 |    |  
