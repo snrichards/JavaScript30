@@ -17,7 +17,7 @@
 |11   |Custom Video Player                          |:ballot_box_with_check:    |  
 |12   |Key Sequence Detection                       |:ballot_box_with_check:    |  
 |13   |Slide in on Scroll                           |:ballot_box_with_check:    |  
-|14   |JavaScript References VS Copying             |    |  
+|14   |JavaScript References VS Copying             |:ballot_box_with_check:    |  
 |15   |LocalStorage                                 |    |  
 |16   |Mouse Move Shadow                            |    |  
 |17   |Sort Without Articles                        |    |  
