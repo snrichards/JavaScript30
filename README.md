@@ -18,7 +18,7 @@
 |12   |Key Sequence Detection                       |:ballot_box_with_check:    |  
 |13   |Slide in on Scroll                           |:ballot_box_with_check:    |  
 |14   |JavaScript References VS Copying             |:ballot_box_with_check:    |  
-|15   |LocalStorage                                 |    |  
+|15   |LocalStorage                                 |:ballot_box_with_check:    |  
 |16   |Mouse Move Shadow                            |    |  
 |17   |Sort Without Articles                        |    |  
 |18   |Adding Up Times with Reduce                  |    |  
