@@ -19,7 +19,7 @@
 |13   |Slide in on Scroll                           |:ballot_box_with_check:    |  
 |14   |JavaScript References VS Copying             |:ballot_box_with_check:    |  
 |15   |LocalStorage                                 |:ballot_box_with_check:    |  
-|16   |Mouse Move Shadow                            |    |  
+|16   |Mouse Move Shadow                            |:ballot_box_with_check:    |  
 |17   |Sort Without Articles                        |    |  
 |18   |Adding Up Times with Reduce                  |    |  
 |19   |Webcam Fun                                   |    |  
