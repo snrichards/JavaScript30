@@ -22,7 +22,7 @@
 |16   |Mouse Move Shadow                            |:ballot_box_with_check:    |  
 |17   |Sort Without Articles                        |:ballot_box_with_check:    |  
 |18   |Adding Up Times with Reduce                  |:ballot_box_with_check:    |  
-|19   |Webcam Fun                                   |    |  
+|19   |Webcam Fun                                   |:ballot_box_with_check:    |  
 |20   |Speech Detection                             |    |  
 |21   |Geolocation                                  |    |  
 |22   |Follow Along Link Highlighter                |    |  
