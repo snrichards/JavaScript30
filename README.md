@@ -23,7 +23,7 @@
 |17   |Sort Without Articles                        |:ballot_box_with_check:    |  
 |18   |Adding Up Times with Reduce                  |:ballot_box_with_check:    |  
 |19   |Webcam Fun                                   |:ballot_box_with_check:    |  
-|20   |Speech Detection                             |    |  
+|20   |Speech Detection                             |:ballot_box_with_check:    |  
 |21   |Geolocation                                  |    |  
 |22   |Follow Along Link Highlighter                |    |  
 |23   |Speech Synthesis                             |    |  
