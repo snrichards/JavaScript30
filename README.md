@@ -26,7 +26,7 @@
 |20   |Speech Detection                             |:ballot_box_with_check:    |  
 |21   |Geolocation                                  |:ballot_box_with_check:    |  
 |22   |Follow Along Link Highlighter                |:ballot_box_with_check:    |  
-|23   |Speech Synthesis                             |    |  
+|23   |Speech Synthesis                             |:ballot_box_with_check:    |  
 |24   |Sticky Nav                                   |    |  
 |25   |Event Capture, Propagation, Bubbling and Once|    |  
 |26   |Stripe Follow Along Nav                      |    |  
