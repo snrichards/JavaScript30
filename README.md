@@ -29,7 +29,7 @@
 |23   |Speech Synthesis                             |:ballot_box_with_check:    |  
 |24   |Sticky Nav                                   |:ballot_box_with_check:    |  
 |25   |Event Capture, Propagation, Bubbling and Once|:ballot_box_with_check:    |  
-|26   |Stripe Follow Along Nav                      |    |  
+|26   |Stripe Follow Along Nav                      |:ballot_box_with_check:    |  
 |27   |Click and Drag                               |    |  
 |28   |Video Speed Controller                       |    |  
 |29   |Countdown Timer                              |    |  
