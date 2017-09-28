@@ -33,4 +33,4 @@
 |27   |Click and Drag                               |:ballot_box_with_check:    |  
 |28   |Video Speed Controller                       |:ballot_box_with_check:    |  
 |29   |Countdown Timer                              |:ballot_box_with_check:    |  
-|30   |Whack A Mole                                 |    |  
+|30   |Whack A Mole                                 |:ballot_box_with_check:    |  
